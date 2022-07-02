@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - Handle
+  - Entry Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Room
+  - Water
+  - UI
+  - Character
+  - Enemy
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2846778467
+    locked: 0
+  - name: Background Wall
+    uniqueID: 3433878699
+    locked: 0
+  - name: Background Obj
+    uniqueID: 2105225233
+    locked: 0
+  - name: Room
+    uniqueID: 3977973761
+    locked: 0
+  - name: Characters
+    uniqueID: 4224718715
+    locked: 0
+  - name: Enemies
+    uniqueID: 4031661379
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
