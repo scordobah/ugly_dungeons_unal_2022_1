@@ -28,4 +28,4 @@ El juego cuenta con tres dinámicas básicas:
 ## Capturas del desarrollo.
 
 ![image info](https://github.com/scordobah/ugly_dungeons_unal_2022_1/blob/master/pictures/iamge1.jpg?raw=true)
-![image info](./pictures/image1.jpg)
+![image info](https://github.com/scordobah/ugly_dungeons_unal_2022_1/blob/master/pictures/image2.jpg?raw=true)
